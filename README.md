@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning django framework of python...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email_id = pateldhruvish612000@gmail.com 
--                     Contact_No = 8488861415
+-                    Linkedin = https://www.linkedin.com/in/patel-dhruvish-1aaa91153/
+-                    Contact_No = 8488861415
 .......
 
 <!---
